@@ -1,4 +1,4 @@
-import 'package:course_managment_system/instructor.dart';
+import 'package:course_managment_system/instructor-module.dart';
 import 'package:course_managment_system/student_module.dart';
 
 // Defines the Course class, representing a course in the system

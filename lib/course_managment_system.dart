@@ -1,6 +1,6 @@
 import 'package:course_managment_system/course_module.dart';
 import 'package:course_managment_system/course_service.dart';
-import 'package:course_managment_system/instructor.dart';
+import 'package:course_managment_system/instructor-module.dart';
 import 'package:course_managment_system/student_module.dart';
 
 // Entry point for the Course Management System application

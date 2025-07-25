@@ -1,5 +1,5 @@
 import 'package:course_managment_system/course_module.dart';
-import 'package:course_managment_system/instructor.dart';
+import 'package:course_managment_system/instructor-module.dart';
 
 import 'student_module.dart';
 
