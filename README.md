@@ -30,4 +30,3 @@ A simple command-line application for managing courses, students, and instructor
 
 ---
 
-This project is for educational purposes and demonstrates basic OOP and Dart usage.
